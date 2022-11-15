@@ -1,0 +1,27 @@
+p{
+  background: deepskyblue;
+  color: lightgoldenrodyellow;
+}
+h1{
+  background: deepskyblue;
+  color: yellow;
+}
+img{
+  weight: 300px;
+  height: 350px;
+}
+h3{
+  background: #b2aeae;
+  color: yellow;
+}
+h2{background: navajowhite;
+  color: #d5821a;}
+
+ul{
+  background: navajowhite;
+  color: deepskyblue;
+}
+.new{
+  background: lightblue;
+  color: hotpink;
+}
